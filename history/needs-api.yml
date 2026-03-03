@@ -1,7 +1,7 @@
-url: https://api.nextplay.run/public/health
+url: https://api.nextplay.run/api/public/health
 status: down
-code: 404
-responseTime: 646
-lastUpdated: 2026-03-03T06:18:41.627Z
+code: 0
+responseTime: 0
+lastUpdated: 2026-03-03T06:21:21.795Z
 startTime: 2026-03-03T06:12:41.245Z
 generator: Upptime <https://github.com/upptime/upptime>
