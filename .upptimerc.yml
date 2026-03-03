@@ -8,9 +8,7 @@ sites:
   - name: Needs Admin
     url: https://admin.needslabs.com
   - name: Needs API
-    url: https://api.nextplay.run/health
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://api.nextplay.run/public/health
 
 status-website:
   baseUrl: /upptime-needs
