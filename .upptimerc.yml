@@ -8,7 +8,7 @@ sites:
   - name: Needs Admin
     url: https://admin.needslabs.com
   - name: Needs API
-    url: https://api.nextplay.run/public/health
+    url: https://api.nextplay.run/api/public/health
 
 status-website:
   baseUrl: /upptime-needs
